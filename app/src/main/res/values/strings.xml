@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battle Ground- @ Md Arman Khan</string>
+    <string name="Battle_Ground">Ironman Vs Captain America</string>
+    <string name="Grid">Our main grid</string>
+    <string name="status">Ironman turns-Tap to play</string>
+    <string name="Reset">Reset</string>
+</resources>
